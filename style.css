@@ -1,0 +1,15 @@
+   /* tudo que for puxado dentro dessa tag é estilizado, mas tem que ser declarada e reverenciada */
+   .card {
+       width: 500px;
+       height: fit-content;
+       background-color: aliceblue;
+       border-radius: 25px;
+       border: solid 2px navy;
+       margin: 20px;
+       padding: 40px;
+   }
+
+   span {
+       /* todas as tags span dentro do meu corpo html terao essas estilizaçoes */
+       color: navy;
+   }
